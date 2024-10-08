@@ -17,8 +17,8 @@
     "ignoreCommand": []
   },
   "adminBot": [
- "100078193001468", 
-"61556006709662"
+ "61558651089120", 
+""
 
  ], 		
     "whiteListMode": {
@@ -26,12 +26,12 @@
     "whiteListIds":[],
     "notes": "if you enable this feature, only the ids in the whiteListIds section can use the bot"
   },
-  "authorName": "SUZI",
+  "authorName": "ALAMIN",
   "AGE": "16",
-  "GENDER": "FEMALE",
-  "nickNameBot": "[ . ]𝙰𝚛𝚘𝚑𝚒'𝚜 𝙱𝚘𝚝=/🩷🪽",
+  "GENDER": "Male",
+  "nickNameBot": "𝐀Ⓛ𝐀Μ𝕀ℕ 𝓑𝐎т 🍁",
   "authorFB": "pore add korbo",
-  "prefix": ".",
+  "prefix": "-",
   "database": {
 		"type": "sqlite",
 		"uriMongodb": "",
