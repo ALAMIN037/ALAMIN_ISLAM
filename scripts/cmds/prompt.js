@@ -8,7 +8,7 @@ const baseApiUrl = async () => {
 module.exports.config ={
     name: "prompt",
     version: "6.9",
-    author: "ncs pro",
+    author: "502",
     countDown: 5,
     role: 0,
     category: "media",
