@@ -25,7 +25,7 @@ const UPoLPrefix = [
       
      const upol = event.body.substring(ahprefix.length).trim();
    if (!upol) {
-        await message.reply('Put a question to get answer.?🔰');
+        await message.reply('Enter a question.? 🥹');
         return;
       }
       
