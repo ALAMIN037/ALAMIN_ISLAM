@@ -5,7 +5,7 @@ module.exports = {
   config: {
     name: "join",
     version: "2.0",
-    author: "Mah MUD",
+    author: "ALAMIN",
     countDown: 5,
     role: 2,
     shortDescription: "Join the group that bot is in",
